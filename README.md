@@ -9,4 +9,9 @@ Jestem studentem
 Możesz się ze mną skontaktować przez:
 - GitHub: [github.com/woneruz](https://github.com/woneruz)
 
+
+## A to jestem ja
+![Moje zdjęcie](zdjecie.jpg)
+
+
 Dziękuję za odwiedzenie mojej strony! <3 
