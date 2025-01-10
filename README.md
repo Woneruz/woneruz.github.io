@@ -11,7 +11,7 @@ Możesz się ze mną skontaktować przez:
 
 
 ## A to jestem ja
-![Moje zdjęcie](zdjecie.jpg)
+<img src="zdjecie.jpg" alt="Moje zdjęcie" width="300">
 
 
 Dziękuję za odwiedzenie mojej strony! <3 
